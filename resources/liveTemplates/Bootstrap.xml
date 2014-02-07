@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<templateSet group="Bootstrap3">
+<templateSet group="Bootstrap">
     <template name="bs3-alert:danger" value="&lt;div class=&quot;alert alert-danger&quot;&gt;&#10;&#9;&lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;alert&quot; aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/button&gt;&#10;&#9;&lt;strong&gt;$var1$&lt;/strong&gt; $var2$&#10;&lt;/div&gt;$END$" description="Alert (Danger)" toReformat="false" toShortenFQNames="true">
         <variable name="var1" expression="&quot;Title!&quot;" defaultValue="" alwaysStopAt="true" />
         <variable name="var2" expression="&quot;Alert body ...&quot;" defaultValue="" alwaysStopAt="true" />

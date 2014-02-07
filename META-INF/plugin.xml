@@ -1,13 +1,14 @@
 <idea-plugin version="2">
   <id>com.jasonnz.bootstrap</id>
-  <name>Bootstrap 3</name>
+  <name>Bootstrap</name>
   <version>0.1.1</version>
   <vendor email="@JasonMortonNZ" url="https://github.com/JasonMortonNZ/bootstrap3-phpstorm-plugin">@JasonMortonNZ</vendor>
 
   <description><![CDATA[
       <h2>Bootstrap 3 live templates / snippets</h2>
       <p><a href="https://github.com/JasonMortonNZ/bootstrap3-phpstorm-plugin">GitHub Homepage</a></p>
-      <p>Follow me on Twitter: <b>@JasonMortonNZ</b></p>
+      <br />
+      <p>Follow me on Twitter: <a href="https://twitter.com/JasonMortonNZ"><b>@JasonMortonNZ</b></a></p>
       
     ]]></description>
 

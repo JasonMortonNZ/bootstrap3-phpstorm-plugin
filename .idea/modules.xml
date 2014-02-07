@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bootstrap.iml" filepath="$PROJECT_DIR$/Bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap3-phpstorm-plugin.iml" filepath="$PROJECT_DIR$/bootstrap3-phpstorm-plugin.iml" />
     </modules>
   </component>
 </project>

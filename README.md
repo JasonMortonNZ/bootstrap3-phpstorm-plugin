@@ -7,6 +7,16 @@ Feel free to let me know what else you want added via:
 
 - Twitter [@JasonMortonNZ](https://twitter.com/jasonmortonnz)
 - [Issues](https://github.com/JasonMortonNZ/bootstrap3-phpstorm-plugin/issues)
+- 
+### Intallation (In 1,2,3 easy steps)
+
+To install the plugin open your editor (PHPStorm, WebStorm or Intellij) and hit:
+
+1) ` File > Settings > Plugins` and click on the `Browse repositories` button.
+
+2) Look for `Bootstrap` the right click and select `Download plugin`.
+
+3) Finally hit the `Apply` button, agree to restart your IDE and your all done!
 
 
 ## What's included - contents

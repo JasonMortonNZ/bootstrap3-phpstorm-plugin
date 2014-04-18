@@ -10,7 +10,7 @@ Feel free to let me know what else you want added via:
 - 
 ### Intallation (In 1,2,3 easy steps)
 
-To install the plugin open your editor (PHPStorm, WebStorm or Intellij) and hit:
+To install the plugin open your editor (PHPStorm) and hit:
 
 1) ` File > Settings > Plugins` and click on the `Browse repositories` button.
 

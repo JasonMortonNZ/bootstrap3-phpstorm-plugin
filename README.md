@@ -7,8 +7,9 @@ A WebStorm/PHPStorm plugin containing Bootstrap 3 live templates - lots of live 
 
 Feel free to let me know what else you want added via:
 
-- the [Issues](https://github.com/JasonMortonNZ/bootstrap3-phpstorm-plugin/issues) section on GitHub
 - Twitter [@JasonMortonNZ](https://twitter.com/jasonmortonnz)
+- The [Issues](https://github.com/JasonMortonNZ/bootstrap3-phpstorm-plugin/issues) section on GitHub
+
 
 ### Intallation (in three easy steps)
 
